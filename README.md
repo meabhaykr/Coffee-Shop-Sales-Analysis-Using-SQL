@@ -63,6 +63,5 @@ This project analyzes the sales transactions from a coffee shop, stored in the `
 
 For any questions or feedback, please contact me at [meabhaykr@gmail.com](mailto:meabhaykr@gmail.com).
 
+[LinkedIn](https://www.linkedin.com/in/meabhaykr) | [GitHub](https://github.com/meabhaykr) | [Portfolio](https://meabhaykr.github.io)
 ---
-
-
