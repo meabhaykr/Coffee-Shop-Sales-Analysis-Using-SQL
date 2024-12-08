@@ -31,6 +31,7 @@ This project analyzes the sales transactions from a coffee shop, stored in the `
 <p align="center">
     <img src="https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-SQL/blob/main/Transactions%20Table.png" alt="Transactions Table">
 </p>
+
 ---
 
 ## **Project Objectives**
