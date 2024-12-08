@@ -8,6 +8,18 @@ Welcome to the Coffee Shop Sales Analysis project! This repository showcases SQL
 
 ---
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Database Schema](#database-schema)
+- [Project Objectives](#project-objectives)
+- [Insights and Recommendations](#insights-and-recommendations)
+- [Future Enhancements](#future-enhancements)
+- [Getting Started](#getting-started)
+- [Contact](#contact)
+
+---
+
 ## **Project Overview**
 
 This project analyzes the sales transactions from a coffee shop, stored in the `Transactions` table. Key insights include total revenue, visitor counts, sales trends, product performance, and store-level analysis. The findings aim to inform business strategies, optimize operations, and improve customer experience.
@@ -64,4 +76,6 @@ This project analyzes the sales transactions from a coffee shop, stored in the `
 For any questions or feedback, please contact me at [meabhaykr@gmail.com](mailto:meabhaykr@gmail.com).
 
 [LinkedIn](https://www.linkedin.com/in/meabhaykr) | [GitHub](https://github.com/meabhaykr) | [Portfolio](https://meabhaykr.github.io)
+
+
 ---
