@@ -1,4 +1,5 @@
-# Coffee Shop Sales Analysis with SQL
+<h1 align="center">Coffee Shop Sales Analysis with SQL</h1>
+
 
 Welcome to the Coffee Shop Sales Analysis project! This repository showcases SQL-based data analysis performed on transactional data from a coffee shop. The primary objective is to derive actionable insights from sales data to enhance decision-making processes. The analysis focuses on revenue trends, customer behavior, product performance, and operational efficiency.
 
@@ -12,28 +13,9 @@ This project analyzes the sales transactions from a coffee shop, stored in the `
 
 ## **Database Schema**
 
-### **Transactions Table**
-| Column Name       | Data Type         | Description                                             |
-|--------------------|-------------------|---------------------------------------------------------|
-| `transaction_id`   | INT               | Unique identifier for each transaction.                |
-| `transaction_date` | DATE              | Date of the transaction.                               |
-| `transaction_time` | TIME              | Time of the transaction.                               |
-| `store_id`         | INT               | Unique identifier for each store.                      |
-| `store_location`   | VARCHAR(255)      | Store location name.                                   |
-| `product_id`       | INT               | Unique identifier for the product.                     |
-| `transaction_qty`  | INT               | Quantity of the product in the transaction.            |
-| `unit_price`       | DECIMAL(10, 2)    | Unit price of the product.                             |
-| `product_category` | VARCHAR(255)      | Category of the product (e.g., Coffee, Tea).           |
-| `product_type`     | VARCHAR(255)      | Type of the product (e.g., Beverage, Snack).           |
-| `product_detail`   | VARCHAR(255)      | Specific product name (e.g., Barista Espresso).         |
-| `size`             | VARCHAR(50)       | Product size (e.g., Small, Regular, Large).            |
-| `amount`           | DECIMAL(10, 2)    | Total amount for the transaction.                      |
-| `month_name`       | VARCHAR(255)      | Name of the transaction month.                         |
-| `day_name`         | VARCHAR(50)       | Day of the week of the transaction.                    |
-| `hour`             | INT               | Hour of the transaction (0–23).                        |
-| `day_of_week`      | INT               | Numeric representation of the day (1–7).               |
-| `month`            | INT               | Numeric representation of the month (1–12).            |
-
+<p align="center">
+    <img src="https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-SQL/blob/main/Transactions%20Table.png" alt="Transactions Table">
+</p>
 ---
 
 ## **Project Objectives**
@@ -72,3 +54,12 @@ This project analyzes the sales transactions from a coffee shop, stored in the `
    ```
 2. Load the sample database schema and data into your preferred SQL environment.  
 3. Run the SQL scripts provided to explore insights.
+
+---
+## Contact
+
+For any questions or feedback, please contact me at [meabhaykr@gmail.com](mailto:meabhaykr@gmail.com).
+
+---
+
+
