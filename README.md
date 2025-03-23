@@ -5,7 +5,7 @@
 </p>
 
 Welcome to the Coffee Shop Sales Analysis project! This repository showcases SQL-based data analysis performed on transactional data from a coffee shop. The primary objective is to derive actionable insights from sales data to enhance decision-making processes. The analysis focuses on revenue trends, customer behavior, product performance, and operational efficiency.
-
+ 
 ---
 
 ## Table of Contents
